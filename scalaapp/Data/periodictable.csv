@@ -1,0 +1,118 @@
+number,name,period,element_category,phase
+1,Hydrogen,1,diatomic nonmetal,gas
+2,Helium,1,noble gas,gas
+3,Lithium,2,alkali metal,solid
+4,Beryllium,2,alkaline earth metal,solid
+5,Boron,2,metalloid,solid
+6,Carbon,2,"polyatomic nonmetal, sometimes considered a metalloid",solid
+7,Nitrogen,2,diatomic nonmetal,gas
+8,Oxygen,2,diatomic nonmetal,gas
+9,Fluorine,2,diatomic nonmetal,gas
+10,Neon,2,noble gas,gas
+11,Sodium,3,alkali metal,solid
+12,Magnesium,3,alkaline earth metal,solid
+13,Aluminum,3,"post-transition metal, sometimes considered a metalloid",solid
+14,Silicon,3,metalloid,solid
+15,Phosphorus,3,polyatomic nonmetal,solid
+16,Sulfur,3,polyatomic nonmetal,solid
+17,Chlorine,3,diatomic nonmetal,gas
+18,Argon,3,noble gas,gas
+19,Potassium,4,alkali metal,solid
+20,Calcium,4,alkaline earth metal,solid
+21,Scandium,4,transition metal,solid
+22,Titanium,4,transition metal,solid
+23,Vanadium,4,transition metal,solid
+24,Chromium,4,transition metal,solid
+25,Manganese,4,transition metal,solid
+26,Iron,4,transition metal,solid
+27,Cobalt,4,transition metal,solid
+28,Nickel,4,transition metal,solid
+29,Copper,4,transition metal,solid
+30,Zinc,4,"transition metal, alternatively considered a post-transition metal",solid
+31,Gallium,4,post-transition metal,solid
+32,Germanium,4,metalloid,solid
+33,Arsenic,4,metalloid,solid
+34,Selenium,4,"polyatomic nonmetal, sometimes considered a metalloid",solid
+35,Bromine,4,diatomic nonmetal,liquid
+36,Krypton,4,noble gas,gas
+37,Rubidium,5,alkali metal,solid
+38,Strontium,5,alkaline earth metal,solid
+39,Yttrium,5,transition metal,solid
+40,Zirconium,5,transition metal,solid
+41,Niobium,5,transition metal,solid
+42,Molybdenum,5,transition metal,solid
+43,Technetium,5,transition metal,solid
+44,Ruthenium,5,transition metal,
+45,Rhodium,5,transition metal,solid
+46,Palladium,5,transition metal,solid
+47,Silver,5,transition metal,solid
+48,Cadmium,5,"transition metal, alternatively considered a post-transition metal",solid
+49,Indium,5,post-transition metal,solid
+50,Tin,5,post-transition metal,solid
+51,Antimony,5,metalloid,solid
+52,Tellurium,5,metalloid,solid
+53,Iodine,5,diatomic nonmetal,solid
+54,Xenon,5,noble gas,gas
+55,Cesium,6,alkali metal,solid
+56,Barium,6,alkaline earth metals,solid
+57,Lanthanum,6,"lanthanide, sometimes considered a transition metal",solid
+58,Cerium,6,lanthanide,solid
+59,Praseodymium,6,lanthanide,solid
+60,Neodymium,6,lanthanide,solid
+61,Promethium,6,lanthanide,solid
+62,Samarium,6,lanthanide,solid
+63,Europium,6,lanthanide,solid
+64,Gadolinium,6,lanthanide,solid
+65,Terbium,6,lanthanide,solid
+66,Dysprosium,6,lanthanide,solid
+67,Holmium,6,lanthanide,solid
+68,Erbium,6,lanthanide,solid
+69,Thulium,6,lanthanide,solid
+70,Ytterbium,6,lanthanide,solid
+71,Lutetium,6,"lanthanide, sometimes considered a transition metal",solid
+72,Hafnium,6,transition metal,solid
+73,Tantalum,6,transition metal,solid
+74,Tungsten,6,transition metal,solid
+75,Rhenium,6,transition metal,solid
+76,Osmium,6,transition metal,solid
+77,Iridium,6,transition metal,solid
+78,Platinum,6,transition metal,solid
+79,Gold,6,transition metal,solid
+80,Mercury,6,"transition metal, alternatively considered a post-transition metal",liquid
+81,Thallium,6,post-transition metal,solid
+82,Lead,6,post-transition metal,solid
+83,Bismuth,6,post-transition metal,solid
+84,Polonium,6,"post-transition metal, but this status is disputed",solid
+85,Astatine,6,"metalloid, sometimes classified as a nonmetal, or a metal",solid
+86,Radon,6,noble gas,gas
+87,Francium,7,alkali metal,solid presumably
+88,Radium,7,alkaline earth metal,solid
+89,Actinium,7,"actinide, sometimes considered a transition metal",solid
+90,Thorium,7,actinide,solid
+91,Protactinium,7,actinide,solid
+92,Uranium,7,actinide,solid
+93,Neptunium,7,actinide,solid
+94,Plutonium,7,actinide,solid
+95,Americium,7,actinide,solid
+96,Curium,7,actinide,solid
+97,Berkelium,7,actinide,solid
+98,Californium,7,actinide,solid
+99,Einsteinium,7,actinide,solid
+100,Fermium,7,actinide,solid (predicted)
+101,Mendelevium,7,actinide,solid (predicted)
+102,Nobelium,7,actinide,solid (predicted)
+103,Lawrencium,7,"actinide, sometimes considered a transition metal",solid (predicted)
+105,Dubnium,7,transition metal,solid (predicted)
+106,Seaborgium,7,transition metal,solid (predicted)
+107,Bohrium,7,transition metal,solid (predicted)
+108,Hassium,7,transition metal,solid (predicted)
+109,Meitnerium,7,"unknown, but probably a transition metal",solid (predicted)
+110,Darmstadtium,7,"unknown, but probably a transition metal",solid (predicted)
+111,Roentgenium,7,"unknown, but probably a transition metal",solid (predicted)
+112,Ununbium,7,"transition metal, alternatively considered a post-transition metal",gas (predicted)
+113,Ununtrium,7,"unknown, but probably a post-transition metal",solid (predicted)
+114,Ununquadium,7,post-transition metal,solid (predicted)
+115,Ununpentium,7,"unknown, but probably a post-transition metal",solid (predicted)
+116,Ununhexium,7,"unknown, but probably a post-transition metal",solid (predicted)
+117,Ununseptium,7,"unknown, but probably a post-transition metal",solid (predicted)
+118,Ununoctium,7,"unknown, but predicted to be a noble gas",solid (predicted)
