@@ -1,0 +1,8 @@
+create a topic named 'topics'
+./kafka-topics --create --zookeeper ip-20-0-21-161:2181 --replication-factor 1 --partitions 1 --topic topics
+
+start the producer using the below command
+./kafka-console-producer --broker-list ip-20-0-31-210:9092 --topic topics
+
+to check: start the consumer use the below command
+./kafka-console-consumer --zookeeper ip-20-0-21-161:2181 --topic topics --from-beginning
